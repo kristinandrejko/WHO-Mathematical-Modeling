@@ -1,7 +1,7 @@
 # WHO-Mathematical-Modeling
  To assess the contribution of mathematical modeling studies to World Health Organization (WHO) guideline recommendations, and the quality of evidence contributed by these studies
 
-Data dictionary for  MM_TotalGuidelines_External_09-05-20.xlsx 
+Data dictionary for  WHO-MM_External_09-04-20.xlsx 
 
 Column	Variable	Description
 
